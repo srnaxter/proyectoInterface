@@ -11,5 +11,8 @@
     <orderEntry type="library" name="popper" level="application" />
     <orderEntry type="library" name="bootstrap" level="application" />
     <orderEntry type="library" name="parallax" level="application" />
+    <orderEntry type="library" name="index" level="application" />
+    <orderEntry type="library" name="axios" level="application" />
+    <orderEntry type="library" name="jquery.mask" level="application" />
   </component>
 </module>
